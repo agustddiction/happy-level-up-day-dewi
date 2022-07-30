@@ -1,11 +1,11 @@
 {
   "greeting": "Hola",
   "name": "Dewi",
-  "greetingText": "Lama tak bersua dan berbincag-bincang",
+  "greetingText": "Lama tak bersua dan berbincang-bincang",
   "wishText": "May Reza Rahardian always be with you! ;)",
   "imagePath": "img/dewi.jpg",
   "text1": "It's your level up day",
-  "textInChatBox": "Happy birthday! Wish you all the best bla bla bla...",
+  "textInChatBox": "Happy birthday! Wish you all the best and all your wish come true bla bla...",
   "sendButtonLabel": "Send",
   "text2": "Tadinya pengen gitu.",
   "text3": "tapi gajadi.",
@@ -16,7 +16,7 @@
   "smiley": ":)",
   "bigTextPart1": "JA",
   "bigTextPart2": "DI",
-  "wishHeading": "Happy Level Up Day!",
+  "wishHeading": "Happy Birthday!",
   "outroText": "Itu aja sih, maaf telat soalnya dikira gampang bikin ginian wkwkw.",
   "replayText": "Klik disini kalau mau liat ulang hehe.",
   "outroSmiley": ":)"
